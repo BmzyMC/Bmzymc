@@ -1,4 +1,4 @@
-English  [Chinese]([English](https://github.com/BmzyMC)
+English  [Chinese](https://github.com/BmzyMC)
 
 # Hello, I'm BmzyMC! 👋
 
