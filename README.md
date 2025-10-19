@@ -4,7 +4,7 @@
 
 欢迎来到我的 GitHub 主页！
 
-##BmzyMC 无规则服务器
+## BmzyMC 无规则服务器
 [前往](cn.bmzy.pw)
 ![服务器状态](https://api.azsu.top/mcping/image?ip=azsu.top&watermark=§cBmzyMC§7｜§eQQ:604308082)
 
