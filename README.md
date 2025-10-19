@@ -1,16 +1,19 @@
-[English](https://github.com/BmzyMC/Bmzymc/blob/main/README_EN.md)  Chinese
 # 你好，我是 BmzyMC! 👋 
 
 ![头像](https://avatars.githubusercontent.com/u/201321856?v=4)
 
 欢迎来到我的 GitHub 主页！
 
+##BmzyMC 无规则服务器
+[前往](cn.bmzy.pw)
+![服务器状态](https://api.azsu.top/mcping/image?ip=azsu.top&watermark=§cBmzyMC§7｜§eQQ:604308082)
+
 ## 🚀 关于我
 
 - 💻 热爱编程与开源技术
 - 🌱 目前正在学习新的编程语言和技术
 - 🔭 对 Minecraft 模组开发感兴趣
-- 📫 如何联系我: [在此处添加联系方式]
+- 📫 如何联系我: xiaomaqaq@bmzy.pw / QQ: 3548300539
 
 ![2B2T](https://api.azsu.top/org/tablist/image)
 
@@ -37,8 +40,9 @@
 
 ## 📫 联系我
 
+- 📧 邮箱: [xiaomaqaq@bmzy.pw](mailto:xiaomaqaq@bmzy.pw)
+- 💬 QQ: 3548300539
 - GitHub: [@BmzyMC](https://github.com/BmzyMC)
-- [在此处添加其他社交媒体链接]
 
 ---
 
@@ -47,3 +51,9 @@
 ---
 
 *README 最后更新于: 2024年12月19日*
+
+---
+
+[English](https://github.com/BmzyMC/Bmzymc/blob/main/README_EN.md) | 中文
+
+---
