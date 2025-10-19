@@ -1,5 +1,7 @@
 # 你好，我是 BmzyMC! 👋
 
+![头像](https://avatars.githubusercontent.com/u/201321856?v=4)
+
 欢迎来到我的 GitHub 主页！
 
 ## 🚀 关于我
