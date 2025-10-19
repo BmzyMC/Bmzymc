@@ -1,3 +1,5 @@
+English  [Chinese]([English](https://github.com/BmzyMC)
+
 # Hello, I'm BmzyMC! 👋
 
 ![Avatar](https://avatars.githubusercontent.com/u/201321856?v=4)
