@@ -1,4 +1,5 @@
-# 你好，我是 BmzyMC! 👋
+[English](https://github.com/BmzyMC/Bmzymc/blob/main/README_EN.md)  Chinese
+# 你好，我是 BmzyMC! 👋 
 
 ![头像](https://avatars.githubusercontent.com/u/201321856?v=4)
 
