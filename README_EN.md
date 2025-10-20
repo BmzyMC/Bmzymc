@@ -1,17 +1,21 @@
-English  [Chinese](https://github.com/BmzyMC)
-
-# Hello, I'm BmzyMC! 👋
+# Hello, I'm BmzyMC! 👋 
 
 ![Avatar](https://avatars.githubusercontent.com/u/201321856?v=4)
 
 Welcome to my GitHub profile!
+
+## BmzyMC Anarchy Server
+[Visit](https://cn.bmzy.pw)
+![Server Status](https://api.azsu.top/mcping/image?ip=azsu.top&watermark=§cBmzyMC§7｜§eQQ:604308082)
 
 ## 🚀 About Me
 
 - 💻 Passionate about programming and open-source technologies
 - 🌱 Currently learning new programming languages and technologies
 - 🔭 Interested in Minecraft mod development
-- 📫 How to reach me: [Add contact information here]
+- 📫 How to reach me: xiaomaqaq@bmzy.pw / QQ: 3548300539
+
+![2B2T](https://api.azsu.top/org/tablist/image)
 
 ## 🛠️ Tech Stack
 
@@ -21,7 +25,7 @@ Welcome to my GitHub profile!
 - JavaScript/TypeScript
 - etc...
 
-**Tools and Frameworks:**
+**Tools & Frameworks:**
 - Git
 - Minecraft Forge/Fabric
 - Spring Boot
@@ -32,12 +36,13 @@ Welcome to my GitHub profile!
 
 ![BmzyMC's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BmzyMC&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BmzyMC&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BmzyMC&layout=compact&theme=radical)
 
-## 📫 Connect with Me
+## 📫 Contact Me
 
+- 📧 Email: [xiaomaqaq@bmzy.pw](mailto:xiaomaqaq@bmzy.pw)
+- 💬 QQ: 3548300539
 - GitHub: [@BmzyMC](https://github.com/BmzyMC)
-- [Add other social media links here]
 
 ---
 
@@ -46,3 +51,7 @@ Welcome to my GitHub profile!
 ---
 
 *README last updated: December 19, 2024*
+
+---
+
+English | [中文](https://github.com/BmzyMC)
