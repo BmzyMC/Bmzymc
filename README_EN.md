@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 ## BmzyMC Anarchy Server
 [Visit](https://cn.bmzy.pw)
-![Server Status](https://api.azsu.top/mcping/image?ip=Play.Bmzy.pw&watermark=§cBmzyMC§7｜§eQQ:604308082)
+![Server Status](https://api.azsu.top/mcping/image?ip=2b2t.bmzy.pw&watermark=§cBmzyMC§7｜§eQQ:604308082)
 
 ## 🚀 About Me
 
